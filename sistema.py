@@ -1,6 +1,5 @@
 import streamlit as st
 import hashlib
-import pdfplumber
 import pytesseract
 from PIL import Image
 import re
