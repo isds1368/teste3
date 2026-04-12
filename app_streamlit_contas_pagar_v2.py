@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from datetime pip install datetime
+from datetime import datetime
 pip install sqlite3
 pip install pdflumber
 
