@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 import sqlite3
-import pdflumber
 
 st.set_page_config(page_title="Contas a Pagar", layout="wide")
 
