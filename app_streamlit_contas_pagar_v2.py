@@ -1,8 +1,8 @@
 import streamlit as st
-import pandas as pd
-from datetime import datetime
-import sqlite3
-import bcrypt
+pip install pandas as pd
+from datetime pip install datetime
+pip install sqlite3
+pip install bcrypt
 
 st.set_page_config(page_title="Contas a Pagar", layout="wide")
 
